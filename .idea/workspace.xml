@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ade7ad34-e5eb-4564-9182-0b74c767bf06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/CGIP/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Desktop/CGIP/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="99" column="10" selection-start-line="72" selection-start-column="4" selection-end-line="99" selection-end-column="10" />
+              <folding>
+                <element signature="n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mainNav</find>
+      <find>className</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>class</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CGIP/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/CGIP/app/Http/Middleware/Cors.php" />
+        <option value="$PROJECT_DIR$/CGIP/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/src/components/Main.jsx" />
+        <option value="$PROJECT_DIR$/build/index.html" />
+        <option value="$PROJECT_DIR$/src/components/Tour.jsx" />
+        <option value="$PROJECT_DIR$/CGIP/app/Http/Controllers/GalleryController.php" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/components/Aboutus.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Footer.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Home.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Gallery.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Units.jsx" />
+        <option value="$PROJECT_DIR$/CGIP/resources/js/index.js" />
+        <option value="$PROJECT_DIR$/CGIP/resources/js/components/RouteMain.js" />
+        <option value="$PROJECT_DIR$/CGIP/resources/js/components/Footer.jsx" />
+        <option value="$PROJECT_DIR$/CGIP/resources/js/components/Main.jsx" />
+        <option value="$PROJECT_DIR$/CGIP/resources/js/components/Units.jsx" />
+        <option value="$PROJECT_DIR$/CGIP/public/css/websiteCSS.css" />
+        <option value="$PROJECT_DIR$/CGIP/resources/js/components/Home.jsx" />
+        <option value="$PROJECT_DIR$/CGIP/resources/views/admin/layout.blade.php" />
+        <option value="$PROJECT_DIR$/CGIP/resources/views/dashboard.blade.php" />
+        <option value="$PROJECT_DIR$/CGIP/resources/js/components/Tour.jsx" />
+        <option value="$PROJECT_DIR$/CGIP/resources/js/App.js" />
+        <option value="$PROJECT_DIR$/CGIP/resources/views/react.blade.php" />
+        <option value="$PROJECT_DIR$/CGIP/resources/js/components/Gallery.jsx" />
+        <option value="$PROJECT_DIR$/CGIP/resources/js/components/Aboutus.jsx" />
+        <option value="$PROJECT_DIR$/CGIP/public/js/scripts.js" />
+        <option value="$PROJECT_DIR$/CGIP/resources/views/home.blade.php" />
+        <option value="$PROJECT_DIR$/CGIP/resources/js/components/Navbar.jsx" />
+        <option value="$PROJECT_DIR$/CGIP/routes/web.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/CGIP/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/nexmo/client" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/laravel/slack-notification-channel" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/laravel/nexmo-notification-channel" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/composer" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/kylekatarnls/update-helper" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/CGIP/vendor/beyondcode/laravel-dump-server" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cgip-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cgip-react" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dev/ism" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="F:\xampp\htdocs\cgip-react\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\xampp\htdocs\cgip-react\CGIP\public" />
+      <recent name="F:\xampp\htdocs\cgip-react\CGIP\resources\js\components" />
+      <recent name="F:\xampp\htdocs\cgip-react\CGIP\resources\js" />
+      <recent name="F:\xampp\htdocs\cgip-react\build" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ade7ad34-e5eb-4564-9182-0b74c767bf06" name="Default Changelist" comment="" />
+      <created>1564650073824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564650073824</updated>
+      <workItem from="1564650077019" duration="6039000" />
+      <workItem from="1564657922620" duration="2398000" />
+      <workItem from="1564892641075" duration="332000" />
+      <workItem from="1564900242539" duration="14835000" />
+      <workItem from="1565940755891" duration="1219000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24823000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.35188216" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navbar.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1852" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CGIP/app/Http/Middleware/Cors.php" />
+    <entry file="file://$PROJECT_DIR$/CGIP/app/Http/Kernel.php" />
+    <entry file="file://$PROJECT_DIR$/CGIP/app/Providers/AuthServiceProvider.php" />
+    <entry file="file://$PROJECT_DIR$/CGIP/app/Providers/AppServiceProvider.php" />
+    <entry file="file://$PROJECT_DIR$/src/components/Gallery.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Main.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Footer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Aboutus.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CGIP/app/Http/Controllers/GalleryController.php" />
+    <entry file="file://$PROJECT_DIR$/src/components/Tour.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="49" column="69" selection-start-line="49" selection-start-column="69" selection-end-line="49" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Units.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/views/welcome.blade.php" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/js/App.css" />
+    <entry file="file://$PROJECT_DIR$/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1091">
+          <caret line="211" column="20" selection-start-line="211" selection-start-column="20" selection-end-line="211" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/js/index.js" />
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="56" selection-end-line="184" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/js/components/Footer.jsx" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/js/index.css" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/js/components/Example.js" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/js/bootstrap.js" />
+    <entry file="file://$PROJECT_DIR$/CGIP/public/css/websiteCSS.css" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/views/admin/layout.blade.php" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/views/dashboard.blade.php" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/js/components/Tour.jsx" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/views/about/index.blade.php" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/js/App.js" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/js/components/RouteMain.js" />
+    <entry file="file://$PROJECT_DIR$/CGIP/public/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/views/react.blade.php" />
+    <entry file="file://$PROJECT_DIR$/CGIP/public/js/jQuery.js" />
+    <entry file="file://$PROJECT_DIR$/CGIP/public/js/scripts.js" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/js/components/Gallery.jsx" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/js/components/Units.jsx" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/js/components/Aboutus.jsx" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/js/components/Home.jsx" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/js/components/Main.jsx" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/views/home.blade.php" />
+    <entry file="file://$PROJECT_DIR$/CGIP/resources/js/components/Navbar.jsx" />
+    <entry file="file://$PROJECT_DIR$/CGIP/routes/web.php" />
+    <entry file="file://$USER_HOME$/Desktop/CGIP/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="99" column="10" selection-start-line="72" selection-start-column="4" selection-end-line="99" selection-end-column="10" />
+          <folding>
+            <element signature="n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
